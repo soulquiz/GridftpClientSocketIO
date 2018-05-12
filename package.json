@@ -1,0 +1,38 @@
+{
+  "name": "gridftpclientsocketio",
+  "version": "1.0.0",
+  "description": "GridFTP Client Web Application for Expresslane project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulquiz/GridftpClientSocketIO.git"
+  },
+  "author": "Chatchai Honarongsiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soulquiz/GridftpClientSocketIO/issues"
+  },
+  "homepage": "https://github.com/soulquiz/GridftpClientSocketIO#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.6.1",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "filesize-parser": "^1.4.2",
+    "node-cmd": "^3.0.0",
+    "performance-now": "^2.1.0",
+    "request": "^2.85.0",
+    "socket.io": "^2.1.0",
+    "socket.io-client": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
